@@ -1,6 +1,6 @@
 # Santander - Excel com Inteligência Artificial
 
-<h3>Projeto 1 - Criando uma Ferramenta de Controle de Investimentos com Excel (DIO-Excel)(</h3>
+<h3>Projeto 1 - Criando uma Ferramenta de Controle de Investimentos com Excel (DIO-Excel)</h3>
 
 - Utilizei as fórmulas como VF e PROCV.
 - Nomeei as células.
