@@ -16,8 +16,8 @@
 
 <h3>Projeto 3 - Criando Um Dashboard de Vendas do Xbox com Excel (DIO-Excel3.0)</h3>
 
--Criação de tabela dinâmica.
--Criação de gráficos dinâmicos.
--Filtro visual.
--Trabalho com Big Number.
+- Criação de tabela dinâmica.
+- Criação de gráficos dinâmicos.
+- Filtro visual.
+- Trabalho com Big Number.
 
